@@ -99,7 +99,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
+            video="https://www.youtube.com/embed/Q5228v-f9D8"
             videoTag="iframe" />
         </div>
       </div>

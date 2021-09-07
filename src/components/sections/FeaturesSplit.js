@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Teaching
                   </h3>
                 <p className="m-0">
-                  How would you think if Redfounder were to teach a course on how to use a Launchpad and of course how to make your own project? Comment on the most recent video and like.
+                  How would you think if Redfounder were to teach a course on how to use a Launchpad and of course how to make your own project? Comment yes on the most recent video, if you like this idea.
                   </p>
               </div>
               <div className={
