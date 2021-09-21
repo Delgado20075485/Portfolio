@@ -1,0 +1,15 @@
+.none{
+    display: none !important; 
+}
+.easter-egg-avocado {
+    width: 80rem;
+    height: 100vh;
+
+    color:rgb(226, 43, 43);
+    background-color:rgb(216, 27, 27); 
+    border-color: rgb(124, 124, 124);
+}
+
+.easter-egg-avocado {
+    border-radius: 1000rem;
+}

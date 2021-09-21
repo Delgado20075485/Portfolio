@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c38a0f85d41da5f7f48ec33f2e0d0065",
+    "revision": "e553ff86b9d0e2feac79d34b62ba49af",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c01c27a3bec1654701bf",
-    "url": "/portfolio/static/css/main.0271060c.chunk.css"
+    "revision": "cf976f91fc04d050742c",
+    "url": "/portfolio/static/css/main.f0bdcee5.chunk.css"
   },
   {
     "revision": "3275c2a99c5680dbdd9b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.5a3542f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c01c27a3bec1654701bf",
-    "url": "/portfolio/static/js/main.770717c3.chunk.js"
+    "revision": "cf976f91fc04d050742c",
+    "url": "/portfolio/static/js/main.b35b96b8.chunk.js"
   },
   {
     "revision": "62dea3017bd2ba8df9d9",
@@ -28,28 +28,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/cta-illustration.3ce357e7.svg"
   },
   {
-    "revision": "0f9928d77bc67692e90527ec092fcbd0",
-    "url": "/portfolio/static/media/feature-tile-icon-01.0f9928d7.svg"
+    "revision": "1af60aad6a1853b89562d1dcbd094f30",
+    "url": "/portfolio/static/media/feature-tile-icon-01.1af60aad.svg"
   },
   {
-    "revision": "bd39f30434175e7c8b1d1c74fa6569fd",
-    "url": "/portfolio/static/media/feature-tile-icon-02.bd39f304.svg"
+    "revision": "28cac3b96d49552a5e3a196a26ea46c3",
+    "url": "/portfolio/static/media/feature-tile-icon-02.28cac3b9.svg"
   },
   {
-    "revision": "66f37ba5c7e4b6648f04883fa637e634",
-    "url": "/portfolio/static/media/feature-tile-icon-03.66f37ba5.svg"
+    "revision": "6b8716f2ff1cf868e45287639f9d7f88",
+    "url": "/portfolio/static/media/feature-tile-icon-03.6b8716f2.svg"
   },
   {
-    "revision": "836acd100a942420f8ab4e6c5e4162d8",
-    "url": "/portfolio/static/media/feature-tile-icon-04.836acd10.svg"
+    "revision": "e4047b03255d0e5567ebd5e31e69bf56",
+    "url": "/portfolio/static/media/feature-tile-icon-04.e4047b03.svg"
   },
   {
-    "revision": "fa9ba00b178abc7bd2e02bd986e91fe3",
-    "url": "/portfolio/static/media/feature-tile-icon-05.fa9ba00b.svg"
+    "revision": "19f022a61d30fc3ab61180820803890e",
+    "url": "/portfolio/static/media/feature-tile-icon-05.19f022a6.svg"
   },
   {
-    "revision": "6a1776963deb39d710bae80bb449aebe",
-    "url": "/portfolio/static/media/feature-tile-icon-06.6a177696.svg"
+    "revision": "6698a577a14ea6b507c97dfba0533578",
+    "url": "/portfolio/static/media/feature-tile-icon-06.6698a577.svg"
   },
   {
     "revision": "2b35fc8591eb448fe6cda1b7853b9860",

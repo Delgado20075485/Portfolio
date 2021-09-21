@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Project Files',
-    paragraph: 'Play your favorite projects.'
+    title: 'Equipment',
+    paragraph: 'What do I use?'
   };
 
   return (
@@ -71,8 +71,8 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Agua (with J Balvin) - Music From "Sponge On The Run" Movie (Launchpad Cover)
-                    </h4>
+                    
+                    </h4>Circular Lighting
                   <p className="m-0 text-sm">
                     
                     </p>
@@ -94,7 +94,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                    
-                    </h4>
+                    </h4>iPhone 12 Pro Max
                   <p className="m-0 text-sm">
                     
                     </p>
@@ -116,7 +116,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     
-                    </h4>
+                    </h4> Overhead Stand
                   <p className="m-0 text-sm">
                     
                     </p>
@@ -138,7 +138,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     
-                    </h4>
+                    </h4>Ableton Live 10 Suite
                   <p className="m-0 text-sm">
                     
                     </p>
@@ -160,7 +160,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     
-                    </h4>
+                    </h4>Adobe After Affects
                   <p className="m-0 text-sm">
                     
                     </p>
@@ -182,7 +182,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     
-                    </h4>
+                    </h4>Poster Board
                   <p className="m-0 text-sm">
                     
                     </p>
