@@ -4,6 +4,7 @@ import Footer from "../components/layout/Footer.js";
 import Banner from "../components/sections/Banner.js";
 
 
+
 const Contact = () => {
     return (
         <>
