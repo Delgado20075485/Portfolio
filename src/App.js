@@ -12,9 +12,11 @@ import LayoutDefault from './layouts/LayoutDefault';
 
 // Views 
 import Home from './views/Home';
+import Contact from './views/Contact';
+
 
 // Initialize Google Analytics
-ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+ReactGA.initialize('G-S7LD9J1EFH');
 
 const trackPage = page => {
   ReactGA.set({ page });
@@ -41,6 +43,8 @@ const App = () => {
         <Switch>
           <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/portfolio/easter-egg" component={EasterEgg} />
+          <AppRoute exact path="/portfolio/contact" component={Contact}/>
+          <AppRoute exact path="/portfolio/aboutus" component={Contact}/>
         </Switch>
       )} />
   );
