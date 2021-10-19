@@ -20,7 +20,7 @@ const EasterEgg = () => {
         </div>
         <div>
             <div class = "star">
-                Agua (with J Balvin) - Music "Spong On The Run" Movie            
+                Agua (with J Balvin) - Music "Sponge On The Run" Movie            
                 </div>
         </div>
         <div>
