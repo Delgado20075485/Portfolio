@@ -15,6 +15,7 @@ import Home from './views/Home';
 import Contact from './views/Contact';
 
 
+
 // Initialize Google Analytics
 ReactGA.initialize('G-S7LD9J1EFH');
 

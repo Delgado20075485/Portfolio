@@ -1,12 +1,22 @@
-import react from "react"
+import React from "react";
+import Header from "../components/layout/Header.js";
+import Footer from "../components/layout/Footer.js";
+import Banner from "../components/sections/Banner.js";
 
-const AboutUs = () => {
+
+
+const Aboutus = () => {
     return (
         <>
-            AboutUs
+            <Header />
+            <Banner>
+                About Us
+            </Banner>
+           ABOUTUS PAGE
+            <Footer />
         </>
-
     );
 };
 
-export default AboutUs;
+export default Aboutus;
+
